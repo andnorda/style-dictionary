@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.0.0-prerelease.14
+
+### Patch Changes
+
+- 6dd2e57: Escape double quotes for ts outputStringLiterals
+
 ## 4.0.0-prerelease.13
 
 ### Patch Changes
